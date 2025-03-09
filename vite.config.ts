@@ -5,5 +5,5 @@ import { nodePolyfills } from 'vite-plugin-node-polyfills';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), nodePolyfills()],
-  base: '/my-ton-sc-part3/',
+  base: '/my-ton-sc-part3-2/',
 });
