@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <TonConnectButton />
+      <h1>Hello World</h1>
     </div>
   );
 }
